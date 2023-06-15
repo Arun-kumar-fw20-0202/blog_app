@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "backend",
+		"path": "."
+	},
+	{
+		"name": "Blog_app",
+		"path": "../../../../../../../../Blog_app"
+	}
+],
+  "settings": {}
+}
